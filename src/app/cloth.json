@@ -1,0 +1,147 @@
+[
+  {
+    "id": "shirts1",
+    "category": "nike",
+    "title": "Nsw T-shirt",
+    "description": "A comfortable and nice T-shirt",
+    "price": "14,500",
+    "images":[
+      "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nike1front.jpg?raw=true",
+      "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nike1back.jpg?raw=true"
+    ],
+    "main_des":"A plain t-shirt, an essential wardrobe staple. Crafted from soft cotton, it offers versatile styling options, from layering to standalone wear, ensuring both comfort and timeless simplicity in every outfit.",
+    "sex":"Man or Woman"
+  },
+
+  {
+    "id": "shirts2",
+    "category": "nike",
+    "title": "Air Cotton Long Sleeve Graphic Tee",
+    "description": "A moisture-wicking and breathable round neck shirt by Nike.",
+    "price": "9,000",
+    "images":[
+  "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nike2Front.jpg?raw=true",
+  "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nike2back.jpg?raw=true"],
+  "main_des":"Stay cool and dry in this Nike round neck shirt. Designed with moisture-wicking technology, it effortlessly manages sweat. Breathable fabric ensures comfort, making it ideal for workouts or casual wear.",
+  "sex":"Man or Woman"
+  },
+
+  {
+    "id": "vest1",
+    "category": "nike",
+    "title": "Nike Dri-FIT Fast",
+    "description": "Men's trail running tank",
+    "price": "7,500",
+    "images":[
+      "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nvest1front.jpg?raw=true",
+      "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nvest1back.jpg?raw=true"
+    ],
+    "main_des":"Take your run off the beaten path to new horizons in this lightweight tank. We used trail running insights and incorporated sweat-wicking tech to help you stay cool on both short off-road jogs and longer forest treks. An easy fit through the body and hips gives you a relaxed feel so you can stay focused on your stride.",
+    "sex":"Man"
+  },
+  {
+    "id": "vest2",
+    "category": "nike",
+    "title": "Nike Dri-FIT ADV AeroSwift",
+    "description": "Women's trail running tank",
+    "price": "8,500",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nvest2front.jpg?raw=true",
+    "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nvest2back.jpg?raw=true"
+    ],
+    "main_des":"Navigate the changing seasons in a layer designed with tricky in-between temps in mind. Made from fleece that has a woolly feel, this gilet easily layers over tees or under your favourite jacket. Plus, side pockets give you space to stash all the essentials you might need on your next outdoor adventure.",
+    "sex":"Woman"
+  },
+
+  {
+    "id": "shorts1",
+    "category": "nike",
+    "title": "Nike Challenger",
+    "description": "Men's Running Shorts",
+    "price": "9,000",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nshorts1front.jpg?raw=true",
+   "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nshorts1back.jpg?raw=true"
+    ],
+    "main_des":"The iconic Nike Challenger Shorts keep you moving freely with an articulated brief and a smooth feel. Mesh details and secure storage give the versatility you want from everyday shorts. This product is made from at least 75% recycled polyester fibres.",
+    "sex":"Man"
+  },
+  
+  {
+    "id": "shorts2",
+    "category": "nike",
+    "title": "Nike Dri-FIT ADV AeroSwift",
+    "description": "A moisture-wicking and breathable round neck shirt by Nike.",
+    "price": "8,500",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nshorts2front.jpg?raw=true",
+    "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Nshorts2back.jpg?raw=true"
+    ],
+    "main_des":"The iconic Nike Challenger Shorts keep you moving freely with an articulated brief and a smooth feel. Mesh details and secure storage give the versatility you want from everyday shorts. This product is made from at least 75% recycled polyester fibres.",
+    "sex":"Woman"
+  },
+  
+  {
+    "id": "pants1",
+    "category": "nike",
+    "title": "Nike Sportswear Club Fleece",
+    "description": "Women's baggy Trouser",
+    "price": "14,500",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Npants1front.jpg?raw=true",
+    "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Npants1back.jpg?raw=true"
+  ],
+    "main_des":"The Nike Sportswear Club Fleece Cargo Trousers put an athletic spin on the classic cargo style. Made from soft brushed fabric, they're comfortable for all-day wear.",
+    "sex":"Woman"
+  },
+
+  {
+    "id": "pants2",
+    "category": "nike",
+    "title": "Nike Sportswear Club Fleece",
+    "description": "Men's Cargo Trousers.",
+    "price": "17,500",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Npants2front.jpg?raw=true",
+    "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Npants2back.jpg?raw=true"
+    ],
+    "main_des":"The Nike Sportswear Club Fleece Cargo Trousers put an athletic spin on the classic cargo style. Made from soft brushed fabric, they're comfortable for all-day wear.",
+    "sex":"man" 
+  },
+  
+  
+  {
+    "id": "Track1",
+    "category": "nike",
+    "title": "Nike Sportswear Sport Essentials",
+    "description": "Men's Poly-Knit Tracksuit",
+    "price": "23,000",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/NTs1front.jpg?raw=true",
+   "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/NTs1back.jpg?raw=true"
+    ],
+    "main_des":"A loungewear staple, the Nike Sportswear Sport Essentials Tracksuit is a timeless staple with a carefree feel. Pops of colour-blocking details elevate the look, while a smooth knit construction ensures a comfortable fit whether you're kicking back or heading out to enjoy the day",
+    "sex":"man"
+  },
+  
+  {
+    "id": "Track2",
+    "category": "nike",
+    "title": "Nike Air",
+    "description": "Kids' Tracksuit",
+    "price": "11,000",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Ntskids1front.jpg?raw=true",
+   "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/Ntskids1back.jpg?raw=true"
+    ],
+    "main_des":"Thinking about what to wear in the morning shouldn't be hard. The Nike Air tracksuit makes it super-easy with a jacket and trousers combo. Wear it together, or mix and match with your other favourites—and done! The pieces are made from lightweight nylon, just like throwback tracksuits from back in the day.",
+    "sex":"kids"
+  },
+  
+  {
+    "id": "Hoddie1",
+    "category": "nike",
+    "title": "Nike Sportswear Phoenix Fleece",
+    "description": "Women's Oversized Pullover Hoodie",
+    "price": "9,000",
+    "images":["https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/nHo1front.jpg?raw=true",
+   "https://github.com/Gee051/CapstoneFrontendImages/blob/main/Clothings/nHo1back.jpg?raw=true"
+    ],
+    "main_des":"Rise up and transform your fleece wardrobe with strong cosy vibes. This Phoenix Fleece hoodie's spacious fit keeps you relaxed and comfy while exaggerated details (like extra-tall ribbing and an oversized front pocket) add a bold look, helping you to stand out.",
+    "sex":"man"
+  }
+  
+]
